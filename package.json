@@ -19,6 +19,7 @@
     "react-app-rewired": "^2.1.5"
   },
   "dependencies": {
+    "@rocketseat/unform": "^1.6.1",
     "history": "^4.10.1",
     "polished": "^3.4.2",
     "prop-types": "^15.7.2",
