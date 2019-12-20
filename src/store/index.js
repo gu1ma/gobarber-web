@@ -1,3 +1,5 @@
+import '~/config/ReactotronConfig';
+
 import createSagaMiddleware from 'redux-saga';
 import createStore from './createStore';
 
