@@ -4,7 +4,7 @@ import { toast } from 'react-toastify';
 import {
   updateProfileFailure,
   updateProfileSuccess,
-} from '~/store/modules/user/action';
+} from '~/store/modules/user/actions';
 
 import api from '~/services/api';
 
